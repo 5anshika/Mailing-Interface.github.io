@@ -1,2 +1,2 @@
-# Mailing-Intrface.github.io
+# Mailing-Interface.github.io
 Project Website
